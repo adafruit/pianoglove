@@ -4,7 +4,7 @@
 
 The tutorial for this repo is on the Adafruit Learning System at https://learn.adafruit.com/pianoglove
 
-Please visit [Adafruit.com](https://www.adafruit.com} for your project needs and support 
+Please visit [Adafruit.com](https://www.adafruit.com) for your project needs and support 
 open source hardware and software.
 
 You can find the latest version of this code at it's new home at 
